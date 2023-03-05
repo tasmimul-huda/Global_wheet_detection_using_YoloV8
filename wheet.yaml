@@ -1,0 +1,2 @@
+{names: [wheat], nc: 1, test: 'D:/globalwheet/Dataset/test', train: 'D:/globalwheet/Dataset/train',
+  val: 'D:/globalwheet/Dataset/val'}
